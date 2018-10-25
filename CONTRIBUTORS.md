@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: RingoKid (https://github.com/RingoKid)
+Place: Bangladesh
+About: Student
+Programming Language: C, C++, Python, Java
+Email: rifat.naimul@gmail.com
